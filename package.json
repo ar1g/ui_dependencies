@@ -8,9 +8,10 @@
     "bootstrap": "^3.3.5",
     "compression": "^1.6.2",
     "daggy": "^0.0.1",
+    "data.either": "^1.5.0",
     "data.task": "^3.0.0",
     "expect.js": "^0.3.1",
-    "express": "^4.12.3",
+    "express": "^4.14.1",
     "flyd": "^0.1.x",
     "install": "^0.5.0",
     "lodash": "^3.8.0",
@@ -24,10 +25,11 @@
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.0",
     "request": "^2.76.0",
-    "sanctuary": "^0.11.1",
-    "sm-atlas-data": "^1.5.6",
+    "sanctuary": "^0.12.1",
+    "send": "^0.14.2",
+    "sm-atlas-data": "^1.5.7",
     "sm-node-mio-client": "^0.1.3",
-    "socket.io": "^1.3.5",
+    "socket.io": "^1.7.2",
     "tiny-xhr": "^1.0.9",
     "toposort": "^0.2.12"
   },
@@ -42,6 +44,7 @@
     "chai": "^3.3.0",
     "chai-as-promised": "^5.1.0",
     "debug": "^2.2.0",
+    "exorcist": "^0.4.0",
     "jsdom": "^3.1.2",
     "minifyify": "^7.1.0",
     "mocha-jenkins-reporter": "0.1.9",
@@ -53,6 +56,7 @@
     "request-promise-native": "^1.0.3",
     "rewire": "^2.3.3",
     "sinon": "^1.14.1",
+    "uglifyify": "^3.0.4",
     "watchify": "^3.4.0"
   }
 }
